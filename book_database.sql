@@ -1,4 +1,3 @@
--- Create Database (Renamed)
 DROP DATABASE IF EXISTS books;
 CREATE DATABASE books;
 USE books;
